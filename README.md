@@ -187,11 +187,7 @@ _I wrote this API by hand first, then asked an AI to build the same thing from a
 prompt I wrote from memory. The AI's code lives in `ai-version/` (untouched from
 my hand-built submission)._
 
-**My prompt:**
-
-```
-(paste the full prompt you wrote from memory here)
-```
+---
 
 **Three concrete differences I found:**
 
