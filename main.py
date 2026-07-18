@@ -5,4 +5,14 @@ app = FastAPI(title="API", version= 1.0)
 @app.get("/")
 
 def root():
-    return {"message": "Api is alive" }
+    return {
+        "name": "Task API",
+        "version": "1.0",
+        "endpoints": ["/tasks"]
+    }
+
+@app.get("/health")
+def health():
+    return {
+        "status": "ok"
+    }
