@@ -146,13 +146,12 @@ with a friendly face.
 ## Project structure
 
 ```
-tasks-api/
+flyrank-backend-api/
 ├── main.py            # the whole API — under 100 lines
 ├── requirements.txt   # fastapi, uvicorn
 ├── README.md          # this file
-├── .gitignore
-└── docs/
-    └── swagger.png    # Swagger UI screenshot
+└── .gitignore
+ 
 ```
 
 ---
