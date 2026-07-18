@@ -137,10 +137,7 @@ Interactive docs are generated automatically by FastAPI at `/docs`. Every
 endpoint is listed with a **Try it out** button that sends real requests — curl
 with a friendly face.
 
-![Swagger UI showing the full CRUD API](docs/swagger.png)
-
-> Replace this with your own screenshot: run the server, open
-> `http://localhost:8000/docs`, and save the image as `docs/swagger.png`.
+<img width="1918" height="1199" alt="image" src="https://github.com/user-attachments/assets/87b0bcc4-1a63-47e8-8563-30444441c406" />
 
 ---
 
