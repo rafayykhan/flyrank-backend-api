@@ -138,6 +138,8 @@ endpoint is listed with a **Try it out** button that sends real requests — cur
 with a friendly face.
 
 <img width="1918" height="1199" alt="image" src="https://github.com/user-attachments/assets/87b0bcc4-1a63-47e8-8563-30444441c406" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/064a3a70-3a62-4097-82f0-0dc43142e2e3" />
+
 
 ---
 
